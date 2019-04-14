@@ -29,4 +29,4 @@ Brosidon🔱
 
 
 ## UML diagrams
-![alt text](https://github.com/BroSystems/BroApp/blob/master/bro%20App.PNG)
+![diagram](https://github.com/BroSystems/BroApp/blob/master/Diagram.PNG)

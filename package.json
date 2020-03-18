@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "react": "16.8.3",
     "react-native": "0.59.1",
     "react-native-keyboard-tracking-view": "^5.5.0",

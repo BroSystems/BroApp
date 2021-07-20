@@ -11,7 +11,7 @@
     "axios": "^0.18.0",
     "lodash": "^4.17.13",
     "react": "16.8.3",
-    "react-native": "0.59.1",
+    "react-native": "0.62.3",
     "react-native-keyboard-tracking-view": "^5.5.0",
     "react-native-navigation": "^2.15.0",
     "react-native-ui-lib": "^3.21.1",
